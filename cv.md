@@ -16,4 +16,4 @@ print('При x=',x,'y=',"%5.2f"%(y))
 ````
 # 6 -
 # 7 SibGIU student in the 3rd year of study
-# 8 My English level is below zero 
+# 8 My English level is below zero
