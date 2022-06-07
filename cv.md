@@ -1,8 +1,8 @@
-#1 Dmitry Belan
-#2 [VK](https://vk.com/id132348148)
-#3 I want to learn something new and develop my carrer in Front-end development.
-#4 git, C#
-#5 Code example
+# 1 Dmitry Belan
+# 2 [VK](https://vk.com/id132348148)
+# 3 I want to learn something new and develop my carrer in Front-end development.
+# 4 git, C#
+# 5 Code example
 программа с развлетвляющим алгоритмом
 ````
 import math
@@ -14,6 +14,6 @@ else:
     y=math.sqrt(x+3)
 print('При x=',x,'y=',"%5.2f"%(y))
 ````
-#6 -
-#7 SibGIU student in the 3rd year of study
-#8 My English level is below zero 
+# 6 -
+# 7 SibGIU student in the 3rd year of study
+# 8 My English level is below zero 
